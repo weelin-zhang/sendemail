@@ -4,4 +4,5 @@ IDE:eclipse
 
 实现发送文本邮件，图片邮件，带附件邮件
 
-test jenkins4 times
+test jenkins5 times
+add sendmaim
